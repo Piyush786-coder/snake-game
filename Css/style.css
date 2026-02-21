@@ -1,5 +1,5 @@
 body{
-    background: url(../../snake.jpg);
+    background: url(../snake.jpg);
     font-family: Arial;
     text-align:center;
     color:white;
@@ -59,3 +59,4 @@ button{
 button:hover{
     background:#ddd;
 }
+
